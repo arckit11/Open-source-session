@@ -26,7 +26,7 @@ const ContributorGrid = () => {
 
   // Example data - replace with your own or fetch from an API
   const contributors = [
-    { name: "Arckit", imageUrl: "c:/Users/ASUS/OneDrive/Pictures/Saved Pictures/cr7-3j.jpg" },
+    { name: "Arckit", imageUrl: "Open-source-session\public\images\cr7-3j.jpg" },
     // Add more contributors here
     ...Array(49).fill({ name: "", imageUrl: "" }) // Fill the rest with empty boxes
   ];
