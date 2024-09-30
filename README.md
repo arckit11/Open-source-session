@@ -22,7 +22,7 @@
 
 Your application should now be running at `http://localhost:5173/`.
 
-##Contribution
+## Contribution
 
 1. **Create a new branch**
    ```bash
